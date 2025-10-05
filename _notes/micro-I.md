@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Sem 1: Microeconomics - I'
+date: 2024-12-12
+permalink: /notes/2024/12/micro-I/
 tags:
-  - cool posts
+  - cool notes
   - category1
   - category2
 ---

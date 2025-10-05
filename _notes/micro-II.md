@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'Sem 3- Microeconomics II'
+date: 2025-10-05
+permalink: /notes/2025/10/micro-II/
 tags:
-  - cool posts
+  - cool notes
   - category1
   - category2
 ---

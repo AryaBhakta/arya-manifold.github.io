@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Sem 2 - Macroeconomics I'
+date: 2025-03-01
+permalink: /notes/2025/03/macro-I/
 tags:
-  - cool posts
+  - cool notes
   - category1
   - category2
 ---

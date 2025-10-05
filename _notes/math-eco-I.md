@@ -1,9 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Sem 4: Mathematical Economics - I'
+date: 2026-04-01
+permalink: /notes/2026/04/math-eco-I/
 tags:
-  - cool posts
+  - cool notes
   - category1
   - category2
 ---

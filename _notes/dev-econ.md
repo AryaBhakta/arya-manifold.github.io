@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'Sem 3 - Development Economics'
+date: 2015-11-20
+permalink: /notes/2025/11/dev-econ/
 tags:
-  - cool posts
+  - cool notes
   - category1
   - category2
 ---
