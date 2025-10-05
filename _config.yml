@@ -237,10 +237,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _teaching
   - scope:
       path: ""
-      type: posts
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -255,10 +255,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _notes
   - scope:
       path: ""
-      type: teaching
+      type: notes
     values:
       layout: single
       author_profile: true
@@ -273,21 +273,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _articles
   - scope:
       path: ""
-      type: talks
+      type: articles
     values:
-      layout: talk
+      layout: articles
       author_profile: true
       share: true
 
